@@ -1,0 +1,5 @@
+CRITICAL:root:THIS IS A CRITICAL LEVEL MESSAGE!!!
+ERROR:root:This is an Error level message!
+WARNING:root:This is a Warning Level Message
+INFO:root:This is an Informationa-Level Message
+DEBUG:root:This is a debugging level message
